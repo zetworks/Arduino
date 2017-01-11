@@ -11,5 +11,6 @@ void loop() {
   Serial.println("Hello World");
   Serial.println("This is a test");
   erial.prinl("kkakks);
-  // das kommt wieder in den Master
+  // das kommt wieder in den Masterkk
+  // jetzt gehts im Master weiter
 }
